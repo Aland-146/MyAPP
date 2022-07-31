@@ -1,3 +1,5 @@
+ // Start
+
 let myAge = 20; // I am 20 years old
 
 // If we convert my age to seconds, how many seconds have I lived so far?
@@ -16,3 +18,5 @@ const findMyAge = (age) => {
  }
 
  findMyAge(myAge); // Here, we are provoking the 'findMyAge' function, and pass myAge as its parameter.
+
+ // End
