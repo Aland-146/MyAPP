@@ -11,8 +11,8 @@ const findMyAge = (age) => {
 
   let ageInSeconds = age * oneYear * oneDay * oneHour * oneMinute; // Basic arthimatic operation to find the age in seconds
 
-  console.log(ageInSeconds);
+  console.log(ageInSeconds); // This outputs the entered age in seconds.
 
  }
 
- findMyAge(myAge);
+ findMyAge(myAge); // Here, we are provoking the 'findMyAge' function, and pass myAge as its parameter.
